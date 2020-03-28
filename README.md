@@ -6,6 +6,10 @@
 #### 介绍
 校园赚app是一款基于已有成熟移动端（Android+iOS+UniApp）的全部使用Flutter技术整合重构二次开发的跨平台App。
 
+#### 实时预览
+
+通过Flutter Web技术实现的实时预览Web：http://morningstarwang.gitee.io/static_website/#/
+
 #### 软件架构
 敬请期待
 
