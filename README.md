@@ -8,7 +8,7 @@
 
 #### 实时预览
 
-通过Flutter Web技术实现的实时预览Web：http://morningstarwang.gitee.io/static_website/#/
+通过Flutter Web技术实现的实时预览Web：http://app.finerit.com
 
 #### 软件架构
 敬请期待
